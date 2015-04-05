@@ -10,7 +10,6 @@ Contents:
    installation
    usage
    reference/index
-   contributing
    authors
    changelog
 
