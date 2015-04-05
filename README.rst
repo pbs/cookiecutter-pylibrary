@@ -44,26 +44,21 @@ You will be asked for these fields:
 
             "Nameless"
       - Verbose project name, used in headings (docs, readme, etc).
-    * - ``repo_name``
-      - .. code:: python
-
-            "python-nameless"
-      - Repository name on github.
     * - ``package_name``
       - .. code:: python
 
             "nameless"
       - Python package name (whatever you would import).
-    * - ``distribution_name``
-      - .. code:: python
-
-            "nameless"
-      - PyPI distribution name (what you would ``pip install``).
     * - ``project_url``
       - .. code:: python
 
             "http://github.com/pbs/python-nameless"
       - Repository URL where the source code is hosted
+    * - ``docs_url``
+      - .. code:: python
+
+            "http://open.pbs.org"
+      - The place where the documentation lives
 
 .. _Tox: http://testrun.org/tox/
 .. _Setuptools: https://pypi.python.org/pypi/setuptools
