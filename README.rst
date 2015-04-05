@@ -64,3 +64,7 @@ You will be asked for these fields:
 
             "http://github.com/pbs/python-nameless"
       - Repository URL where the source code is hosted
+
+.. _Tox: http://testrun.org/tox/
+.. _Setuptools: https://pypi.python.org/pypi/setuptools
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
