@@ -4,7 +4,7 @@ cookiecutter-pylibrary
 
 Cookiecutter_ template for a Python python library.
 
-This template is much simpler than the one of `ionelmc
+This template is inspired, but it's much simpler than the one of `ionelmc
 <https://github.com/ionelmc/cookiecutter-pylibrary>`_ template.
 
 Requirements
@@ -13,23 +13,22 @@ Requirements
 Projects using this template have these minimal dependencies:
 
 * Cookiecutter_ - just for creating the project
-* Tox_ - for running the tests
 * Setuptools_ - for building the package, wheels etc. Now-days Setuptools is widely available, it shouldn't pose a
   problem :)
 
 To get quickly started on a new system, just `install setuptools
 <https://pypi.python.org/pypi/setuptools#installation-instructions>`_ and then `install pip
-<https://pip.pypa.io/en/latest/installing.html>`_. That's the bare minimum to required install Tox_ and Cookiecutter_. To install
-them, just run this in your shell or command prompt::
+<https://pip.pypa.io/en/latest/installing.html>`_. That's the bare minimum required to install Cookiecutter_. To install
+it, just run this in your shell or command prompt::
 
-  pip install tox cookiecutter
+  pip install cookiecutter
 
 Usage
 -----
 
 First generate your project::
 
-  cookiecutter gh:mvmocanu/cookiecutter-pylibrary
+  cookiecutter gh:pbs/cookiecutter-pylibrary
 
 You will be asked for these fields:
 
